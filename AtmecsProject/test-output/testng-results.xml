@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-16T20:40:21 IST" name="Default suite" finished-at="2019-10-16T20:40:45 IST" duration-ms="24247">
+    <groups>
+    </groups>
+    <test started-at="2019-10-16T20:40:21 IST" name="Default test" finished-at="2019-10-16T20:40:45 IST" duration-ms="24247">
+      <class name="com.atmecs.atmecs.testscript.TestAllPageFooter">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.atmecs.atmecs.testscript.TestAllPageFooter@78aab498]" started-at="2019-10-16T20:40:21 IST" name="launchBrowser" finished-at="2019-10-16T20:40:39 IST" duration-ms="17881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="validateFooter()[pri:0, instance:com.atmecs.atmecs.testscript.TestAllPageFooter@78aab498]" started-at="2019-10-16T20:40:39 IST" name="validateFooter" finished-at="2019-10-16T20:40:41 IST" duration-ms="2194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFooter -->
+        <test-method is-config="true" signature="closeBrwser()[pri:0, instance:com.atmecs.atmecs.testscript.TestAllPageFooter@78aab498]" started-at="2019-10-16T20:40:41 IST" name="closeBrwser" finished-at="2019-10-16T20:40:45 IST" duration-ms="4123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrwser -->
+      </class> <!-- com.atmecs.atmecs.testscript.TestAllPageFooter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
