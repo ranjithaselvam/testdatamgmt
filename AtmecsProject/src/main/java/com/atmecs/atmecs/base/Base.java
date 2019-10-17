@@ -39,7 +39,7 @@ import com.atmecs.atmecs.utility.Utility;
 		public static WebDriver driver;
 		
 
-		/*
+		/**
 		 * Different browser setup(Chrome,Firefox,Internetexplorer).
 		 */
 		
@@ -97,6 +97,8 @@ import com.atmecs.atmecs.utility.Utility;
 			}
 
 		}
+		
+	
 
 		/**
 		 * Determine the the state of the application whether it is the same what we are
@@ -114,7 +116,7 @@ import com.atmecs.atmecs.utility.Utility;
 
 		}
 
-		/*
+		/**
 		 * capable to check for the presence of all kinds of web elements available.
 		 * used to verify if the web element is enabled or disabled within the webpage.
 		 */

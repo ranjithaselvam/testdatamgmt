@@ -16,6 +16,7 @@ package com.atmecs.atmecs.config;
 		public final static String internetExplorer_file="./Lib/IEDriverServer.exe";
 		public final static String config_file="./Congif.properties";
 		public final static String home_page_loc_file="./src/main/resources/pageobject/homePageMenuLocator.properties";
+		public final static String footer_data_file="./src/main/resources/testdata/footer.xlsx";
 		
 
 	}

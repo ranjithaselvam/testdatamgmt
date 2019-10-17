@@ -15,3 +15,314 @@
 2019-10-16 20:40:41 INFO  Utility:119 - element is clicked
 2019-10-16 20:40:41 INFO  Utility:119 - ok
 2019-10-16 20:40:45 INFO  Utility:119 - current browser closed
+2019-10-17 10:19:00 INFO  Utility:119 - browser opened
+2019-10-17 10:19:06 INFO  Utility:119 - Entered url
+2019-10-17 10:19:36 INFO  Utility:119 - element not clickable
+2019-10-17 10:19:36 INFO  Utility:119 - current browser closed
+2019-10-17 11:34:00 INFO  Utility:119 - browser opened
+2019-10-17 11:34:10 INFO  Utility:119 - Entered url
+2019-10-17 11:34:10 INFO  Utility:119 - current browser closed
+2019-10-17 11:35:45 INFO  Utility:119 - browser opened
+2019-10-17 11:36:11 INFO  Utility:119 - Entered url
+2019-10-17 11:36:21 INFO  Utility:119 - current browser closed
+2019-10-17 11:37:06 INFO  Utility:119 - browser opened
+2019-10-17 11:37:21 INFO  Utility:119 - Entered url
+2019-10-17 11:37:21 INFO  Utility:119 - current browser closed
+2019-10-17 11:41:15 INFO  Utility:119 - browser opened
+2019-10-17 11:41:41 INFO  Utility:119 - Entered url
+2019-10-17 11:41:41 INFO  Utility:119 - current browser closed
+2019-10-17 11:43:23 INFO  Utility:119 - browser opened
+2019-10-17 11:43:31 INFO  Utility:119 - Entered url
+2019-10-17 11:43:36 INFO  Utility:119 - current browser closed
+2019-10-17 11:43:58 INFO  Utility:119 - browser opened
+2019-10-17 11:44:07 INFO  Utility:119 - Entered url
+2019-10-17 11:44:11 INFO  Utility:119 - current browser closed
+2019-10-17 11:44:31 INFO  Utility:119 - browser opened
+2019-10-17 11:45:00 INFO  Utility:119 - Entered url
+2019-10-17 11:45:00 INFO  Utility:119 - current browser closed
+2019-10-17 11:45:21 INFO  Utility:119 - browser opened
+2019-10-17 11:45:31 INFO  Utility:119 - Entered url
+2019-10-17 11:45:31 INFO  Utility:119 - current browser closed
+2019-10-17 11:46:27 INFO  Utility:119 - browser opened
+2019-10-17 11:46:38 INFO  Utility:119 - Entered url
+2019-10-17 11:46:38 INFO  Utility:119 - Browser not closed
+2019-10-17 11:48:46 INFO  Utility:119 - browser opened
+2019-10-17 11:48:55 INFO  Utility:119 - Entered url
+2019-10-17 11:48:55 INFO  Utility:119 - element not clickable
+2019-10-17 11:48:55 INFO  Utility:119 - current browser closed
+2019-10-17 11:49:41 INFO  Utility:119 - browser opened
+2019-10-17 11:49:50 INFO  Utility:119 - Entered url
+2019-10-17 11:49:50 INFO  Utility:119 - element not clickable
+2019-10-17 11:49:51 INFO  Utility:119 - current browser closed
+2019-10-17 11:54:23 INFO  Utility:119 - browser opened
+2019-10-17 11:54:31 INFO  Utility:119 - Entered url
+2019-10-17 11:54:31 INFO  Utility:119 - element is clicked
+2019-10-17 11:54:36 INFO  Utility:119 - current browser closed
+2019-10-17 11:55:15 INFO  Utility:119 - browser opened
+2019-10-17 11:55:24 INFO  Utility:119 - Entered url
+2019-10-17 11:55:24 INFO  Utility:119 - element is clicked
+2019-10-17 11:55:25 INFO  Utility:119 - current browser closed
+2019-10-17 11:55:46 INFO  Utility:119 - browser opened
+2019-10-17 11:55:55 INFO  Utility:119 - Entered url
+2019-10-17 11:55:56 INFO  Utility:119 - element is clicked
+2019-10-17 11:56:01 INFO  Utility:119 - current browser closed
+2019-10-17 11:56:19 INFO  Utility:119 - browser opened
+2019-10-17 11:56:29 INFO  Utility:119 - Entered url
+2019-10-17 11:56:29 INFO  Utility:119 - element is clicked
+2019-10-17 11:56:30 INFO  Utility:119 - current browser closed
+2019-10-17 11:56:48 INFO  Utility:119 - browser opened
+2019-10-17 11:56:57 INFO  Utility:119 - Entered url
+2019-10-17 11:56:58 INFO  Utility:119 - element is clicked
+2019-10-17 11:56:59 INFO  Utility:119 - current browser closed
+2019-10-17 11:57:24 INFO  Utility:119 - browser opened
+2019-10-17 11:57:32 INFO  Utility:119 - Entered url
+2019-10-17 11:57:32 INFO  Utility:119 - element is clicked
+2019-10-17 11:57:41 INFO  Utility:119 - current browser closed
+2019-10-17 12:07:06 INFO  Utility:119 - browser opened
+2019-10-17 12:07:42 INFO  Utility:119 - Entered url
+2019-10-17 12:07:42 INFO  Utility:119 - current browser closed
+2019-10-17 12:09:31 INFO  Utility:119 - browser opened
+2019-10-17 12:09:58 INFO  Utility:119 - Entered url
+2019-10-17 12:09:58 INFO  Utility:119 - Browser not closed
+2019-10-17 12:23:42 INFO  Utility:119 - browser opened
+2019-10-17 12:24:24 INFO  Utility:119 - Entered url
+2019-10-17 12:24:25 INFO  Utility:119 - current browser closed
+2019-10-17 12:31:58 INFO  Utility:119 - browser opened
+2019-10-17 12:32:08 INFO  Utility:119 - Entered url
+2019-10-17 12:32:13 INFO  Utility:119 - current browser closed
+2019-10-17 12:35:42 INFO  Utility:119 - browser opened
+2019-10-17 12:36:14 INFO  Utility:119 - Entered url
+2019-10-17 12:36:15 INFO  Utility:119 - current browser closed
+2019-10-17 12:42:55 INFO  Utility:119 - browser opened
+2019-10-17 12:43:04 INFO  Utility:119 - Entered url
+2019-10-17 12:43:34 INFO  Utility:119 - element not clickable
+2019-10-17 12:43:54 INFO  Utility:119 - browser opened
+2019-10-17 12:44:05 INFO  Utility:119 - current browser closed
+2019-10-17 12:44:06 INFO  Utility:119 - Entered url
+2019-10-17 12:44:08 INFO  Utility:119 - element is clicked
+2019-10-17 12:44:08 INFO  Utility:119 - current browser closed
+2019-10-17 12:44:55 INFO  Utility:119 - browser opened
+2019-10-17 12:45:07 INFO  Utility:119 - Entered url
+2019-10-17 12:45:09 INFO  Utility:119 - element is clicked
+2019-10-17 12:45:09 INFO  Utility:119 - current browser closed
+2019-10-17 12:45:44 INFO  Utility:119 - browser opened
+2019-10-17 12:45:56 INFO  Utility:119 - Entered url
+2019-10-17 12:45:59 INFO  Utility:119 - element is clicked
+2019-10-17 12:45:59 INFO  Utility:119 - current browser closed
+2019-10-17 12:47:14 INFO  Utility:119 - browser opened
+2019-10-17 12:47:23 INFO  Utility:119 - Entered url
+2019-10-17 12:47:25 INFO  Utility:119 - element is clicked
+2019-10-17 12:47:25 INFO  Utility:119 - current browser closed
+2019-10-17 12:54:19 INFO  Utility:119 - browser opened
+2019-10-17 12:54:31 INFO  Utility:119 - Entered url
+2019-10-17 12:54:33 INFO  Utility:119 - element is clicked
+2019-10-17 12:54:33 INFO  Utility:119 - current browser closed
+2019-10-17 12:57:56 INFO  Utility:119 - browser opened
+2019-10-17 12:58:08 INFO  Utility:119 - Entered url
+2019-10-17 12:58:10 INFO  Utility:119 - element is clicked
+2019-10-17 12:58:10 INFO  Utility:119 - current browser closed
+2019-10-17 13:05:02 INFO  Utility:119 - browser opened
+2019-10-17 13:05:14 INFO  Utility:119 - Entered url
+2019-10-17 13:05:17 INFO  Utility:119 - element is clicked
+2019-10-17 13:05:17 INFO  Utility:119 - current browser closed
+2019-10-17 13:38:49 INFO  Utility:119 - browser opened
+2019-10-17 13:39:03 INFO  Utility:119 - Entered url
+2019-10-17 13:39:33 INFO  Utility:119 - current browser closed
+2019-10-17 13:40:12 INFO  Utility:119 - browser opened
+2019-10-17 13:40:21 INFO  Utility:119 - Entered url
+2019-10-17 13:40:52 INFO  Utility:119 - current browser closed
+2019-10-17 13:47:50 INFO  Utility:119 - browser opened
+2019-10-17 13:48:00 INFO  Utility:119 - Entered url
+2019-10-17 13:48:10 INFO  Utility:119 - element is clicked
+2019-10-17 13:48:11 INFO  Utility:119 - element is clicked
+2019-10-17 13:48:15 INFO  Utility:119 - current browser closed
+2019-10-17 13:48:58 INFO  Utility:119 - browser opened
+2019-10-17 13:49:08 INFO  Utility:119 - Entered url
+2019-10-17 13:49:08 INFO  Utility:119 - element is clicked
+2019-10-17 13:49:08 INFO  Utility:119 - element is clicked
+2019-10-17 13:49:08 INFO  Utility:119 - current browser closed
+2019-10-17 13:49:38 INFO  Utility:119 - browser opened
+2019-10-17 13:49:46 INFO  Utility:119 - Entered url
+2019-10-17 13:49:46 INFO  Utility:119 - element is clicked
+2019-10-17 13:49:46 INFO  Utility:119 - element is clicked
+2019-10-17 13:49:51 INFO  Utility:119 - current browser closed
+2019-10-17 13:50:19 INFO  Utility:119 - browser opened
+2019-10-17 13:50:27 INFO  Utility:119 - Entered url
+2019-10-17 13:50:28 INFO  Utility:119 - element is clicked
+2019-10-17 13:50:30 INFO  Utility:119 - element is clicked
+2019-10-17 13:50:30 INFO  Utility:119 - current browser closed
+2019-10-17 13:51:09 INFO  Utility:119 - browser opened
+2019-10-17 13:51:33 INFO  Utility:119 - Entered url
+2019-10-17 13:51:33 INFO  Utility:119 - element is clicked
+2019-10-17 13:51:33 INFO  Utility:119 - element is clicked
+2019-10-17 13:51:37 INFO  Utility:119 - current browser closed
+2019-10-17 13:52:19 INFO  Utility:119 - browser opened
+2019-10-17 13:52:30 INFO  Utility:119 - Entered url
+2019-10-17 13:52:30 INFO  Utility:119 - element is clicked
+2019-10-17 13:52:32 INFO  Utility:119 - element is clicked
+2019-10-17 13:52:34 INFO  Utility:119 - current browser closed
+2019-10-17 15:23:26 INFO  Utility:119 - browser opened
+2019-10-17 15:23:36 INFO  Utility:119 - Entered url
+2019-10-17 15:24:06 INFO  Utility:119 - element not clickable
+2019-10-17 15:24:40 INFO  Utility:119 - current browser closed
+2019-10-17 18:33:01 INFO  Utility:119 - browser opened
+2019-10-17 18:33:10 INFO  Utility:119 - Entered url
+2019-10-17 18:33:40 INFO  Utility:119 - element not clickable
+2019-10-17 18:33:42 INFO  Utility:119 - Browser not closed
+2019-10-17 18:35:02 INFO  Utility:119 - browser opened
+2019-10-17 18:35:15 INFO  Utility:119 - Entered url
+2019-10-17 18:35:17 INFO  Utility:119 - element is clicked
+2019-10-17 18:35:17 INFO  Utility:119 - current browser closed
+2019-10-17 18:39:24 INFO  Utility:119 - browser opened
+2019-10-17 18:39:36 INFO  Utility:119 - Entered url
+2019-10-17 18:39:38 INFO  Utility:119 - element is clicked
+2019-10-17 18:39:38 INFO  Utility:119 - current browser closed
+2019-10-17 18:41:08 INFO  Utility:119 - browser opened
+2019-10-17 18:41:20 INFO  Utility:119 - Entered url
+2019-10-17 18:41:22 INFO  Utility:119 - element is clicked
+2019-10-17 18:41:23 INFO  Utility:119 - current browser closed
+2019-10-17 18:42:16 INFO  Utility:119 - browser opened
+2019-10-17 18:42:28 INFO  Utility:119 - Entered url
+2019-10-17 18:42:30 INFO  Utility:119 - element is clicked
+2019-10-17 18:42:30 INFO  Utility:119 - current browser closed
+2019-10-17 18:50:49 INFO  Utility:119 - browser opened
+2019-10-17 18:51:01 INFO  Utility:119 - Entered url
+2019-10-17 18:51:03 INFO  Utility:119 - element is clicked
+2019-10-17 18:51:04 INFO  Utility:119 - current browser closed
+2019-10-17 19:04:38 INFO  Utility:119 - browser opened
+2019-10-17 19:04:50 INFO  Utility:119 - Entered url
+2019-10-17 19:04:50 INFO  Utility:119 - current browser closed
+2019-10-17 19:07:29 INFO  Utility:119 - browser opened
+2019-10-17 19:07:42 INFO  Utility:119 - Entered url
+2019-10-17 19:07:45 INFO  Utility:119 - element is clicked
+2019-10-17 19:07:45 INFO  Utility:119 -  Passed :  Expected : Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us Actual : Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us
+2019-10-17 19:07:45 INFO  Utility:119 -  Passed :  Expected : Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering Actual : Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering
+2019-10-17 19:07:45 INFO  Utility:119 -  Failed :  Expected : Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+ Actual : Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+2019-10-17 19:07:45 INFO  Utility:119 -  Passed :  Expected : Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland Actual : Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland
+2019-10-17 19:07:46 INFO  Utility:119 - current browser closed
+2019-10-17 19:34:17 INFO  Utility:119 - browser opened
+2019-10-17 19:34:29 INFO  Utility:119 - Entered url
+2019-10-17 19:34:32 INFO  Utility:119 - element is clicked
+2019-10-17 19:34:32 INFO  Utility:119 -  Passed :  Expected : Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us Actual : Sitemap
+Home
+About Us
+Services
+Partners
+Case Studies old
+News
+Careers
+Contact Us
+2019-10-17 19:34:33 INFO  Utility:119 -  Passed :  Expected : Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering Actual : Services
+Artificial Intelligence / Machine Learning
+Augmented Reality / Virtual Reality
+Quality Engineering
+Blockchain
+Robotic Process Automation & ChatBOTs
+Cloud Services
+Enterprise Analytics
+Internet of Things
+Mobile Computing
+Product Engineering
+2019-10-17 19:34:33 INFO  Utility:119 -  Failed :  Expected : Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+ Actual : Careers
+Automation Engineer
+DevOps Engineer
+Senior .NET Engineer
+Senior Java/J2EE Engineer
+2019-10-17 19:34:33 INFO  Utility:119 -  Passed :  Expected : Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland Actual : Contact Us
+US Headquarters
+US R&D Center
+India – Hyderabad
+India – Bangalore
+India – Chennai
+info@atmecs.com
+Europe – Ireland
+2019-10-17 19:34:33 INFO  Utility:119 - current browser closed
